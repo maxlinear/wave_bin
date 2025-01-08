@@ -1,0 +1,15 @@
+wave_release_minor="wlan_7.2.60@r597+a+41-8069b4"
+
+
+
+
+
+
+wave_psd_ver="2024-08-01_12-48-16_REV_bc3d72adec33"
+wave_regulatory_ver="2024.05.28_WAVE20-db"
+wave500B_progmodel_ver="4201"
+wave600_progmodel_ver="2006241106"
+wave600B_progmodel_ver="2309281555"
+wave600D2_progmodel_ver="2309281542"
+wave700_progmodel_ver="2404221222"
+wave700B_progmodel_ver="2410091014"
