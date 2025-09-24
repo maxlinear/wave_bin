@@ -1,4 +1,4 @@
-wave_release_minor="wlan_7.2.200@r1044+a+165+a+5-0419bf"
+wave_release_minor="wlan_7.2.300@r1044+a+233+a+15-354fd2"
 
 
 
@@ -12,4 +12,4 @@ wave600_progmodel_ver="2006241106"
 wave600B_progmodel_ver="2309281555"
 wave600D2_progmodel_ver="2309281542"
 wave700_progmodel_ver="2404221222"
-wave700B_progmodel_ver="2508130947"
+wave700B_progmodel_ver="2509031430"
